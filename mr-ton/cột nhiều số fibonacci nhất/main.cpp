@@ -1,5 +1,4 @@
 // link hackerrank: https://www.hackerrank.com/tim-cot-co-nhieu-so-fibonacci-nhat
-// bai nay dc 66.67 thoi
 #include <iostream>
 #include <cmath>
 
